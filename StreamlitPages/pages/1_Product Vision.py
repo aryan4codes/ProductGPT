@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 # Set up the Google API key and model
 api_key = os.getenv('GOOGLE_API_KEY')
-genai.configure(api_key="AIzaSyArnsQcz2NwX4uPqcHJfoqIELeLIcvfjEs")
+genai.configure(api_key=api_key)
 
 generation_config = {
     "temperature": 0.4,
