@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    aryandods:
+      email: aryan@gmail.com
+      name: aryan
+      password: aryan
+    dodsmain:
+      email: dods@gmail.com
+      name: DODS
+      password: dods
+cookie:
+  expiry_days: 30
+  key: some_signature_key # Must be string
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - cybercypher@gmail.com

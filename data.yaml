@@ -1,0 +1,11 @@
+path: ../datasets/roboflow
+
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: Mouthwash
+  1: Other
+  2: Toothbrush
+  3: Toothpaste
