@@ -1,11 +1,11 @@
-# ProductGPT : Automated Product Placement Analysis Platform
+# RetailInsightPro : Automated Product Placement Analysis Platform
 
-ProductGPT is a powerful tool designed to automate the analysis of product images in retail environments. This application aims to provide a comprehensive solution for assessing and optimizing product placement in stores. Below, we outline the key features and functionalities of ProductGPT.
+RetailInsightPro is a powerful tool designed to automate the analysis of product images in retail environments. This application aims to provide a comprehensive solution for assessing and optimizing product placement in stores. Below, we outline the key features and functionalities of RetailInsightPro.
 
 ## Features
 
 ### 1. Automated Image Analysis
-ProductGPT automatically analyzes product images, considering various parameters:
+RetailInsightPro automatically analyzes product images, considering various parameters:
 - Identification of boundary boxes for affiliated brands to easily recognize the products in the picture.
 - Assessment of proportional shelf occupancy.
 - Determination of relative positions, considering factors like eye-level, visibility, lighting, bottom placement, and proximity to corners.
@@ -20,10 +20,10 @@ Administrators have the flexibility to define the GRID in which product placemen
 Users can capture placement images in real-time and facilitate the upload of product placement images for subsequent analysis.
 
 ### 5. Insight Generation
-ProductGPT provides actionable insights to Field Officers based on the analysis, helping them understand the effectiveness of the current product positioning.
+RetailInsightPro provides actionable insights to Field Officers based on the analysis, helping them understand the effectiveness of the current product positioning.
 
 ### 6. Incentive Derivation
-ProductGPT assists Field Officers in deriving the incentive value for each product in each shop based on the analysis.
+RetailInsightPro assists Field Officers in deriving the incentive value for each product in each shop based on the analysis.
 
 ### 7. User-Friendly Interface
 The application is designed to be intuitive and easy to use, enabling seamless integration into the workflow of Field Officers.
